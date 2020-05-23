@@ -1,0 +1,44 @@
+body {
+    font-family: "Crimson Text", "Times New Roman", serif;
+    background-color: #ffffff;
+    font-size: 120%;
+    line-height: 1.5;
+}
+.titulo-principal {
+    text-shadow: 0px 2px 3px #666;
+    text-align: center;
+    background-color: rgba(236, 2, 142, 0.92);
+    color: #FFF;
+    padding: 2rem;
+    border-bottom: .2rem solid #000;
+}
+.subtitulo-principal {
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+.sobre-principal{
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+.sobre-principal{
+    text-align: start;
+    padding: 60px;
+    box-shadow: 0 5px 20px #ccc;
+    width: 45%;
+    margin: 80px 2.5%;
+}
+.sobre-subtitulo{
+
+    padding: 1rem;
+    font-size: 120%;
+}
+.seguranca-atualizacao{
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+.seguranca-atualizacao{
+    padding: 20px;
+    box-shadow: 0 5px 20px #ccc;
+    width: 35%;
+    position: absolute;
+    top: 300px;
+    left: 950px;
+
+}
